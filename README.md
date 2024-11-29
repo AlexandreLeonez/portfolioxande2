@@ -23,4 +23,4 @@ Este projeto é um portfólio pessoal desenvolvido com React e Vite. Nele, mostr
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/portifolio.git
+   git clone https://github.com/AlexandreLeonez/portifolioxande2.git
