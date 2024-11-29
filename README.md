@@ -17,10 +17,10 @@ Este projeto é um portfólio pessoal desenvolvido com React e Vite. Nele, mostr
 - React
 - Vite
 - React Router DOM
-- TailwindCSS (ou CSS Puro)
+- CSS Puro
 
 ## Como Rodar
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/AlexandreLeonez/portifolioxande2.git
+   git clone https://github.com/AlexandreLeonez/portfolioxande2.git
